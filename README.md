@@ -7,10 +7,8 @@ I focus on building products that don’t just look good, but deliver **real imp
 
 ## 🚀 About Me
 
-I’m **Mirza Asfandyar Baig**, a Computer Science student and full-stack developer with a strong focus on **React-based ecosystems** and **cross-platform mobile development**.  
-My projects combine **modern frameworks**, **clean UI/UX principles**, and **scalable architectures** to deliver efficient and user-friendly experiences.
-
-I believe in using technology to **bridge gaps and solve real-world problems**, whether through dynamic web interfaces or responsive mobile apps.
+I’m **Mirza Asfandyar Baig**, a Computer Science student and full-stack developer passionate about **React-based web** and **cross-platform mobile** solutions.  
+I focus on creating applications that blend **functionality**, **design**, and **user-centered thinking**.
 
 ---
 
@@ -19,7 +17,7 @@ I believe in using technology to **bridge gaps and solve real-world problems**, 
 - **Frontend Development:** React.js, Next.js, Astro.js, Tailwind CSS, Material UI  
 - **Mobile Development:** React Native (iOS & Android)  
 - **Backend & Cloud:** Node.js, Firebase, Supabase, Appwrite, MySQL  
-- **UI/UX Design:** Responsive design, accessibility-first approach, motion & microinteractions  
+- **UI/UX Design:** Responsive interfaces, accessibility-first, motion design  
 - **Tools:** Git, GitHub, Cloudinary, VS Code
 
 ---
@@ -30,56 +28,53 @@ I believe in using technology to **bridge gaps and solve real-world problems**, 
 AI-powered flashcards and quizzes for smarter learning.  
 - React + Firebase web app  
 - Study chatbot, gamified leaderboard, and dynamic quiz generation  
-- Gained 100+ early users in 2 days
+- Attracted 100+ users within 48 hours of launch  
 
 ---
 
 ### 💡 [Cogni.ai](https://github.com/AmanWasti9/Final-Project)
 A collaborative AI-driven learning platform.  
-- Responsive front-end built with React.js and Firebase  
-- Focused on onboarding experience and user retention  
-- 200+ active users within first launch week
+- Responsive front-end using React.js + Firebase  
+- Focused on user onboarding and engagement  
+- 200+ active users within first launch week  
 
 ---
 
 ### 🚛 [FiestaCarts (FYP)](https://github.com/junaidanser65/Whole_project)
-Dual mobile app system connecting local food vendors with nearby customers.  
+Dual mobile app system connecting local vendors with nearby customers.  
 - React Native + Node.js + MySQL  
-- Cloudinary for image management  
-- Currently integrating AI-powered vendor workflow automation
+- Cloudinary for image storage  
+- Implementing AI workflows for vendor automation  
 
 ---
 
-## 🧰 Tech Philosophy
+## 📊 GitHub Stats
 
-> **Design with empathy. Develop with precision. Deploy with purpose.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vortex127&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex127&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
 
-Every project begins with a focus on **user experience**, followed by clean, maintainable code that scales.  
-I value transparency, modular design, and collaborative development practices.
-
----
-
-## 🌱 Currently Working On
-
-- AI-powered enhancements for mobile and web apps  
-- Automation tools for data analysis and content-driven UX  
-- Exploring new frameworks that merge performance with simplicity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vortex127&theme=tokyonight&hide_border=true" height="180em" />
+</p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🌱 Currently Exploring
+
+- AI-powered UX tools for web and mobile platforms  
+- Scalable full-stack architectures with React & Node.js  
+- Enhancing user flows with motion and microinteractions  
+
+---
+
+## 🤝 Connect With Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/mirza-asfandyar-baig-44abb6218/)  
-📧 [Email](mailto:mirzasfand04@gmail.com)  
-🐙 [GitHub](https://github.com/Vortex127)
+🐙 [GitHub](https://github.com/Vortex127)  
+📧 [Email](mailto:mirzasfand04@gmail.com)
 
 ---
 
-### 🏗️ Repo Purpose
-
-This repository serves as a **central hub** for my ongoing and completed **web and mobile projects**, documentation, and experiments.  
-Feel free to explore the code, fork the projects, or reach out for collaboration opportunities!
-
----
-
-> _“The best interfaces are the ones you don’t have to think about.”_
+> _“Design with empathy. Develop with precision. Deploy with purpose.”_
