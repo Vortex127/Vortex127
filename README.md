@@ -5,6 +5,9 @@ I focus on creating applications that blend **functionality**, **design**, and *
 
 ---
 
+🛠️ Tech Stack
+JavaScript React React Native Next.js Vercel Bootstrap Material-UI HTML CSS C Java SQL DSA Git Firebase
+
 ## 📊 GitHub Stats
 
 <p align="center">
